@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='zzangupenn, Hongrui Zheng',
-    maintainer_email='zzang@seas.upenn.edu, billyzheng.bz@gmail.com',
-    description='f1tenth gap_follow lab',
+    maintainer='GHIATI Mustapha',
+    maintainer_email='mustapha.ghiati@uit.ac.ma',
+    description='my solution for the f1tenth gap_follow lab',
     license='MIT',
     tests_require=['pytest'],
     entry_points={

@@ -3,9 +3,8 @@
 <package format="3">
   <name>gap_follow</name>
   <version>0.0.0</version>
-  <description>f1tenth gap_follow lab</description>
-  <maintainer email="zzang@seas.upenn.edu">zzangupenn</maintainer>
-  <maintainer email="billyzheng.bz@gmail.com">Hongrui Zheng</maintainer>
+  <description>my solution for the gap_follow lab</description>
+  <maintainer email="mustapha.ghiati@uit.ac.ma">GHIATI Mustapha</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
